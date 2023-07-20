@@ -23,4 +23,7 @@
 
 
 6. By using a user defined function perform all arithmetic operations.
+
+![image](https://github.com/JaviyaShreya/practical1_21012011032_MAD/assets/98646013/366a2d82-566f-43c3-9a81-ea7cab618835)
+
    
