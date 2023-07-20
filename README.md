@@ -23,4 +23,12 @@
 
 
 6. By using a user defined function perform all arithmetic operations.
-   
+
+![image](https://github.com/JaviyaShreya/practical1_21012011032_MAD/assets/98646013/366a2d82-566f-43c3-9a81-ea7cab618835)
+
+7.Find the factorial of number by recursion. Explain "tailrec" keyword.
+
+![image](https://github.com/JaviyaShreya/practical1_21012011032_MAD/assets/98646013/13a590c7-bd70-437d-973f-0c365452de7a)
+
+
+
