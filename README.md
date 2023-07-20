@@ -31,5 +31,7 @@
 
 ![image](https://github.com/JaviyaShreya/practical1_21012011032_MAD/assets/98646013/13a590c7-bd70-437d-973f-0c365452de7a)
 
+8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
 
 
