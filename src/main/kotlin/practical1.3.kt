@@ -1,19 +1,30 @@
 fun main() {
-    println("210120111032 || Javiya Shreya")
-    print("Student Enrollment No:")
-    val Student_Enrollment = readLine()!!
-    print("Student Name:")
-    val Student_Name = readLine()!!
-    print("Student Branch: ")
-    val Student_Branch = readLine()!!
-    print("Student Class: ")
-    val Student_Class = readLine()!!
-    print("Student Batch:")
-    val Student_Batch = readLine()!!
-    print("Student CollageName:")
-    val Student_CollageName = readLine()!!
-    print("Student UniversityName:")
-    val Student_Universityname = readLine()!!
-    print("Student Age:")
-    val Student_Age = readLine()!!
+    print("student Enrollment No.: ")
+    var a = readLine()
+    print("student Name : ")
+    var b = readLine()
+    print("student Branch : ")
+    var c = readLine()
+    print("student Class : ")
+    var d = readLine()
+    print("student Batch : ")
+    var e = readLine()
+    print("student College Name : ")
+    var f = readLine()
+    print("student University Name : ")
+    var g = readLine()
+    print("student Age : ")
+    var h = readLine()
+
+    println("*********************************")
+
+    println("Student's Data : ")
+    println("Enrollment No. : "+a)
+    println("Name : "+b)
+    println("Age : "+h)
+    println("Branch : "+c)
+    println("Class : "+d)
+    println("Batch : "+e)
+    println("College Name : "+f)
+    println("University Name : "+g)
 }
