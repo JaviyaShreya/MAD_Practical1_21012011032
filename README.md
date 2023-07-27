@@ -1,5 +1,6 @@
 # practical1_21012011032_MAD
 1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+
 ![image](https://github.com/JaviyaShreya/practical1_21012011032_MAD/assets/98646013/df18135f-8ad0-4cd0-88bc-2d3e4b881f8e)
 
 2.Type conversion:
@@ -29,6 +30,8 @@
 7.Find the factorial of number by recursion. Explain "tailrec" keyword.
 
 ![image](https://github.com/JaviyaShreya/practical1_21012011032_MAD/assets/98646013/13a590c7-bd70-437d-973f-0c365452de7a)
+
+8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
 
 
